@@ -1,0 +1,22 @@
+{
+  "name": "countodwn",
+  "version": "1.0.1",
+  "description": "a node tool for countdown by npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junhey/countdown.git"
+  },
+  "keywords": [
+    "countdown"
+  ],
+  "author": "junhey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junhey/countdown/issues"
+  },
+  "homepage": "https://github.com/junhey/countdown#readme"
+}
